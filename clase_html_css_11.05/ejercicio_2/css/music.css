@@ -1,0 +1,124 @@
+body {
+    background-image: url(../img/emilia-music-top.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul.top {
+    background-color: rgba(224, 222, 222, 0.486);
+    list-style: none;
+    text-align: right;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    
+}
+
+li.menu {
+    display: inline;
+    font-family: 'Raleway', sans-serif;
+
+    
+}
+
+.icons {
+    display: inline;
+    padding-left: 1780px;    
+  
+       
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 100px;
+    position: absolute;
+    padding-top: 150px;
+}
+
+p.direct_links {
+    position: absolute;
+    padding-top: 370px;
+}
+
+ul.segunda_lista {
+    position: absolute;
+    padding-top: 400px;
+    list-style: none;
+    color: grey;
+}
+
+h3 {
+    position: absolute;
+    padding-top: 550px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    
+}
+
+img {
+    position: absolute;
+    padding-top: 680px;
+}
+
+
+ul.temas {
+    position: absolute;
+    padding-top: 1100px;
+    list-style-type: decimal-leading-zero;
+}
+
+p.go_top{
+    position: absolute;
+    padding-top: 1250px;
+    color: grey;
+}
+
+h3.primerVideo {
+    position: absolute;
+    padding-top: 1300px
+}
+
+iframe.primerVideo {
+    position: absolute;
+    padding-top: 1450px;
+}
+
+p.primer_video {
+    position: absolute;
+    padding-top: 1810px;
+
+}
+
+p.go_top2 {
+    position: absolute;
+    padding-top: 1900px;
+    color: grey;
+}
+
+h3.segundoVideo {
+    position: absolute;
+    padding-top: 1950px;
+}
+
+iframe.segundoVideo {
+    position: absolute;
+    padding-top: 2100px;
+}
+
+p.segundo_video {
+    position: absolute;
+    padding-top: 2460px;
+
+}
+
+p.go_top3 {
+    position: absolute;
+    padding-top: 2550px;
+    color: grey;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
